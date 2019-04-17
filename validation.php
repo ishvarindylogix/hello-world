@@ -1,5 +1,5 @@
 <?php
-    $site_name = 'Next Hop';
+    $site_name = 'Next';
     $admin_email = 'testfordemo2014@gmail.com';
 
 	#echo '<pre>'; print_r($_POST); exit;
